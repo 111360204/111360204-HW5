@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\大學程式\作業區\第六次作業\6.33\6.33\6.33\source.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 請參閱 'scanf' 的宣告
+  6.33.vcxproj -> D:\大學程式\作業區\第六次作業\6.33\6.33\Debug\6.33.exe
